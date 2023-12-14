@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "message": "All User Fetch success",
+  "data": [
+    {
+      "id": 3,
+      "firstName": "Nazmul",
+      "lastName": "Huda",
+      "email": "nazmul@gmail.com",
+      "photo": null,
+      "brith": null,
+      "createdAt": "2023-11-01T16:25:56.000Z",
+      "updatedAt": "2023-11-01T16:25:56.000Z"
+    },
+    {
+      "id": 2,
+      "firstName": "Jahid",
+      "lastName": "Hasan",
+      "email": "jahid@gmail.com",
+      "photo": null,
+      "brith": null,
+      "createdAt": "2023-11-01T16:25:56.000Z",
+      "updatedAt": "2023-11-01T16:25:56.000Z"
+    },
+    {
+      "id": 1,
+      "firstName": "Karim",
+      "lastName": "Mia",
+      "email": "mia@gmail.com",
+      "photo": null,
+      "brith": null,
+      "createdAt": "2023-11-01T16:25:56.000Z",
+      "updatedAt": "2023-11-01T16:25:56.000Z"
+    }
+  ]
+}
